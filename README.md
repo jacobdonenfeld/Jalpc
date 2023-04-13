@@ -235,11 +235,6 @@ Now open your browser and go to `http://localhost:4000/site-name/`
 - [x] Non-github projects also have links.
 - [ ] Add some custom color themes for selection(Nav bar, background, words, dominant hue).
 
-# Donate Jalpc
-If this project let you enjoy your blog time, you can give me a cup of coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/jarrekk)
-
 # Wiki
 
 * [Multilingual Page](https://github.com/jarrekk/Jalpc/wiki/Multilingual-Page)
@@ -247,7 +242,4 @@ If this project let you enjoy your blog time, you can give me a cup of coffee :)
 * [Change Log](https://github.com/jarrekk/Jalpc/wiki/Change-Log)
 * [Contributors](https://github.com/jarrekk/Jalpc/wiki/Contributors)
 * [Thanks to the following](https://github.com/jarrekk/Jalpc/wiki/Thanks-to-the-following)
-
-# Ad
-[Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
 
